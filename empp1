@@ -1,0 +1,8 @@
+name = "Rahul"
+salary = 25000
+
+print(name)
+
+print(salary)
+
+
